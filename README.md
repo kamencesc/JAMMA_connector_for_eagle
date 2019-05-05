@@ -8,5 +8,9 @@ This symbol is JAMMA connector for Eagle Ver.6.
 JAMMA connector is for arcade video game in Japan.  
 I don't check to connect this symbol on real PCB and HIROSE's connector yet.
 
+## Modified
+
+Now you can use a inverted layout for a soldering a JAMMA connector.
+
 ## License
 CC BY-SA
